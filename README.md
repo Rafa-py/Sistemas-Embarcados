@@ -1,9 +1,9 @@
 <h1>Sistemas Embarcados 💻</h1>
 
-<p>Repositório criado para alocar os projetos feitos na discipla de Sistemas Embarcados do curso de 
+<p>Repositório criado para alocar os projetos feitos na disciplina de Sistemas Embarcados do curso de 
 Desenvolvimento de Sistemas do Novotec de São Paulo.
 </p>
-<p>Nessa disciplina foi abordados os conceitos básicos da linguagem <strong>C++</strong> aplicados ao Arduíno UNO.</p>
+<p>Nessa disciplina foram abordados os conceitos básicos da linguagem <strong>C++</strong> aplicados ao Arduíno UNO.</p>
 
 <h2>Para por em prática os códigos desse repositório 🦾</h2>
 
