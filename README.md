@@ -26,4 +26,4 @@ Desenvolvimento de Sistemas do Novotec de São Paulo.
 <img  src="./imgs/LCD.png" alt="Minha Figura" >
 
 <h3>Sensor de distância</h3>
-<img  src="./imgs/ultrassom" alt="Minha Figura" >
+<img  src="./imgs/ultrassom.png" alt="Minha Figura" >
